@@ -1,43 +1,43 @@
-# ?? To-Do List em C# (Console)
+# To-Do List em C# (Console)
 
-Projeto simples de **Lista de Tarefas (To-Do List)** desenvolvido em **C#**, utilizando aplicaÁ„o de **console** e persistÍncia de dados em **arquivo `.txt`**.
+Projeto simples de **Lista de Tarefas (To-Do List)** desenvolvido em **C#**, utilizando aplica√ß√£o de **console** e persist√™ncia de dados em **arquivo `.txt`**.
 
-Esse projeto È ideal para quem est· aprendendo os fundamentos da linguagem C# e conceitos b·sicos como listas, classes, arquivos e lÛgica de programaÁ„o.
+Esse projeto √© ideal para quem est√° aprendendo os fundamentos da linguagem C# e conceitos b√°sicos como listas, classes, arquivos e l√≥gica de programa√ß√£o.
 
 ---
 
-## ?? Funcionalidades
+## Funcionalidades
 
 - ? Adicionar tarefas
 - ?? Listar todas as tarefas
-- ?? Marcar tarefas como concluÌdas
+- ?? Marcar tarefas como conclu√≠das
 - ??? Remover tarefas
 - ?? Salvar tarefas automaticamente em arquivo `.txt`
 - ?? Carregar tarefas ao iniciar o programa
 
 ---
 
-## ??? Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - C#
 - .NET (Console Application)
-- ManipulaÁ„o de arquivos (`System.IO`)
+- Manipula√ß√£o de arquivos (`System.IO`)
 
 ---
 
-## ?? Estrutura do projeto
+##  Estrutura do projeto
 
 TodoList/
-??? Program.cs
-??? Tarefa.cs
-??? README.md
+ Program.cs
+ Tarefa.cs
+ README.md
 
 
 ---
 
 ## ?? Como executar o projeto
 
-1. Clone o repositÛrio:
+1. Clone o reposit√≥rio:
 ```bash
 git clone https://github.com/GabeDebug/To-do-List.git
 Acesse a pasta do projeto:
@@ -46,28 +46,26 @@ cd TodoList
 Execute o projeto:
 
 dotnet run
-?? Conceitos praticados
-ProgramaÁ„o Orientada a Objetos (POO)
+ Conceitos praticados
+Programa√ß√£o Orientada a Objetos (POO)
 
 Listas (List<T>)
 
-Leitura e escrita em arquivos .txt
+Estruturas de repeti√ß√£o e decis√£o
 
-Estruturas de repetiÁ„o e decis„o
+Organiza√ß√£o de c√≥digo
 
-OrganizaÁ„o de cÛdigo
-
-?? Melhorias futuras
-Tratar erros de entrada do usu·rio
+ Melhorias futuras
+Tratar erros de entrada do usu√°rio
 
 Salvar dados em JSON
 
-Interface gr·fica (WPF ou WinForms)
+Interface gr√°fica (WPF ou WinForms)
 
-Vers„o Web com ASP.NET Core
+Vers√£o Web com ASP.NET Core
 
 Uso de banco de dados
 
-????? Autor
+ Autor
 Desenvolvido por Gabriel Debug
-Projeto com fins educacionais ??
+Projeto com fins educacionais 
