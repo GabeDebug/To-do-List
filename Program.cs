@@ -71,7 +71,7 @@ namespace To_do_list
             var tarefa = tarefas.Find(t => t.Id == id);
             if (tarefa != null)
             {
-                tarefa.Concluida = true;
+                tarefa.concluida = true;
                 Console.WriteLine("Tarefa concluída!");
             }
             else
@@ -79,6 +79,16 @@ namespace To_do_list
                 Console.WriteLine("Tarefa não encontrada!");
             }
 
+            Console.ReadKey();
+        }
+
+        static void Remover()
+        {
+            Console.WriteLine("ID da tarefa: ");
+            int id = int.Parse(Console.ReadLine());
+
+            tarefas.RemoveAll(t => t.Id == id);
+            Console.WriteLine("Tarefa removida");
             Console.ReadKey();
         }
     }
