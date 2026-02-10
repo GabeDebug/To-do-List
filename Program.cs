@@ -1,4 +1,5 @@
-﻿namespace To_do_list
+﻿
+namespace To_do_list
 {
     class Program
     {
@@ -33,6 +34,34 @@
                         break;
                 }
             }
+        }
+
+        static void Adicionar()
+        {
+            Console.WriteLine("Digite a descrição da tarefa:");
+            string descricao = Console.ReadLine();
+            tarefa novaTarefa = new tarefa
+            {
+                Id = proximoId++,
+                descricao = descricao,
+                concluida = false
+            };
+            tarefas.Add(novaTarefa);
+            Console.WriteLine("Tarefa adicionada");
+            Console.ReadLine();
+        }
+
+        static void Listar()
+        {
+            Console.WriteLine("\nTarefas:");
+
+            foreach (var t in tarefas)
+            {
+                string status = t.concluida ? "[x]" : "[ ]";
+                Console.WriteLine($"{t.Id} - {status} {t.descricao}");
+            }
+
+            Console.ReadKey();
         }
     }
 }
