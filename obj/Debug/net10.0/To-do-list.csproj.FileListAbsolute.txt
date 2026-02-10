@@ -1,0 +1,15 @@
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\To-do-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\To-do-list.AssemblyInfoInputs.cache
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\To-do-list.AssemblyInfo.cs
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\To-do-list.csproj.CoreCompileInputs.cache
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\To-do-list.sourcelink.json
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\bin\Debug\net10.0\To-do-list.exe
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\bin\Debug\net10.0\To-do-list.deps.json
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\bin\Debug\net10.0\To-do-list.runtimeconfig.json
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\bin\Debug\net10.0\To-do-list.dll
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\bin\Debug\net10.0\To-do-list.pdb
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\To-do-list.dll
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\refint\To-do-list.dll
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\To-do-list.pdb
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\To-do-list.genruntimeconfig.cache
+C:\Users\GabrielProgramer\source\repos\To-do-list\To-do-list\obj\Debug\net10.0\ref\To-do-list.dll

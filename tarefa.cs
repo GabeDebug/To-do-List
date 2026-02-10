@@ -2,10 +2,10 @@
 
 namespace To_do_list
 {
-    internal class tarefa
+    internal class Tarefa
     {
         public int Id { get; set; }
-        public string descricao { get; set; }
+        public required string descricao { get; set; }
         public bool concluida { get; set; }
     }
 }
