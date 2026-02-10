@@ -63,5 +63,23 @@ namespace To_do_list
 
             Console.ReadKey();
         }
+        static void Concluir()
+        {
+            Console.Write("ID da tarefa: ");
+            int id = int.Parse(Console.ReadLine());
+
+            var tarefa = tarefas.Find(t => t.Id == id);
+            if (tarefa != null)
+            {
+                tarefa.Concluida = true;
+                Console.WriteLine("Tarefa concluída!");
+            }
+            else
+            {
+                Console.WriteLine("Tarefa não encontrada!");
+            }
+
+            Console.ReadKey();
+        }
     }
 }
