@@ -12,6 +12,7 @@ Esse projeto é ideal para quem está aprendendo os fundamentos da linguagem C# e 
 - ?? Listar todas as tarefas
 - ?? Marcar tarefas como concluídas
 - ??? Remover tarefas
+- ?? Salvar tarefas automaticamente em arquivo `.txt`
 - ?? Carregar tarefas ao iniciar o programa
 
 ---
